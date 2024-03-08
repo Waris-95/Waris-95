@@ -1,5 +1,5 @@
 <h1 align="center">༒☬ 𝓐𝓫𝓭𝓾𝓵 𝓦𝓪𝓻𝓲𝓼 ☬༒</h1>
-<h3 align="center">A 𝔭𝔞𝔰𝔰𝔦𝔬𝔫𝔞𝔱𝔢 Full-Stack 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗 from 𝕌𝕟𝕚𝕥𝕖𝕕 𝕊𝕥𝕒𝕥𝕖𝕤</h3>
+<h3 align="center">A 𝔭𝔞𝔰𝔰𝔦𝔬𝔫𝔞𝔱𝔢 Full-Stack 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗 from 𝕌𝕟𝕚𝕥𝕖𝕕 𝕊𝕥𝕒𝕥𝕖𝕤🇺🇸</h3>
 
 
 <!-- Super fancy styled image -->
