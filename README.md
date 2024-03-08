@@ -3,8 +3,9 @@
 
 <!-- Super fancy styled image -->
 <div align="center">
-  <img src="https://media.giphy.com/media/26ufn24Onjz8w7NxS/giphy.gif" alt="Coding" style="border-radius: 50%; border: 6px solid #ffffff; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3), 0 3px 10px rgba(0, 0, 0, 0.2); width: 250px; filter: grayscale(30%);">
+  <img src="https://ardas-it.com/uploads/images/blogs/giph.gif" alt="Coding" style="border-radius: 50%; border: 6px solid #ffffff; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3), 0 3px 10px rgba(0, 0, 0, 0.2); width: 250px; filter: grayscale(30%);">
 </div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waris-95&label=Profile%20views&color=0e75b6&style=flat" alt="waris-95" /> </p>
 
