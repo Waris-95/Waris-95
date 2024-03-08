@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from United States</h3>
 
 <!-- Super fancy styled image -->
-<div align="right">
+<div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:2400/1*HmtkzxNYchDkG3n9IIbCZg.png" alt="Coding" style="border-radius: 50%; border: 6px solid #ffffff; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3), 0 3px 10px rgba(0, 0, 0, 0.2); width: 250px; filter: grayscale(30%);">
 </div>
 
