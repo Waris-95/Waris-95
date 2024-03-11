@@ -27,7 +27,7 @@
 
 <h3 align="center">★ Connect with me ★</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/abdul waris" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/abdul-waris-aa1234aw/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="40" width="40" style="border-radius: 50%; border: 3px solid #4CAF50; padding: 5px; background-color: #4CAF50; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);">
   </a>
 </p>
