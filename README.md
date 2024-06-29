@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on **𝔽𝕣𝕠𝕟𝕥-𝕖𝕟𝕕 𝕠𝕣 𝕓𝕒𝕔𝕜-𝕖𝕟𝕕 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤**
 
-- 👨‍💻 All of my projects are available at (https://abdulsportfoliosite-waris-95s-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at (https://abduls-portfolio-orpin.vercel.app)
 
 - 💬 Ask me about **𝕄𝔼ℝℕ & ℙ𝔼ℝℕ**
 
