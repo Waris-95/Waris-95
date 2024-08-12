@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waris-95&theme=onedark" alt="waris-95" /></a> </p>
 
-- 🔭 I’m currently working on [𝔽𝕦𝕝𝕝-𝕊𝕥𝕒𝕔𝕜 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤](https://auth-me-3ebb.onrender.com/)
+- 🔭 I’m currently working on [𝔽𝕦𝕝𝕝-𝕊𝕥𝕒𝕔𝕜 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤](https://vibr.onrender.com/)
 
 - 🌱 I’m currently learning **ℝ𝕖𝕒𝕔𝕥.𝕛𝕤 - ℕ𝕠𝕕𝕖.𝕛𝕤 - ℙ𝕪𝕥𝕙𝕠𝕟 - 𝔽𝕝𝕒𝕤𝕜 - 𝔼𝕩𝕡𝕣𝕖𝕤𝕤 - ℙ𝕠𝕤𝕥𝕘𝕣𝕖𝕊𝕢𝕃**
 
@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **𝕄𝔼ℝℕ & ℙ𝔼ℝℕ**
 
-- 📫 How to reach me **𝕒𝕓𝕕𝕦𝕝𝕨𝕒𝕣𝕚𝕤𝕒𝕨532@gmail.com**
+- 📫 How to reach me **abdulwarisaw532@gmail.com**
 
 
 <h3 align="center">★ Connect with me ★</h3>
